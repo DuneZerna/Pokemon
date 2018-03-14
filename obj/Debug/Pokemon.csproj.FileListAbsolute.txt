@@ -1,0 +1,16 @@
+C:\Users\Marco\Git\pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\Marco\Git\pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\Marco\Git\pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\Marco\Git\pokemon\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Git\pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Git\pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\Marco\Git\pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\Marco\Git\pokemon\Pokemon\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dunez\OneDrive - Syddansk Universitet\2. Semester\Videregående udvikling af 3D applikationer\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\dunez\OneDrive - Syddansk Universitet\2. Semester\Videregående udvikling af 3D applikationer\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\dunez\OneDrive - Syddansk Universitet\2. Semester\Videregående udvikling af 3D applikationer\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\dunez\OneDrive - Syddansk Universitet\2. Semester\Videregående udvikling af 3D applikationer\Pokemon\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dunez\OneDrive - Syddansk Universitet\2. Semester\Videregående udvikling af 3D applikationer\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+C:\Users\dunez\OneDrive - Syddansk Universitet\2. Semester\Videregående udvikling af 3D applikationer\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\dunez\OneDrive - Syddansk Universitet\2. Semester\Videregående udvikling af 3D applikationer\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\dunez\OneDrive - Syddansk Universitet\2. Semester\Videregående udvikling af 3D applikationer\Pokemon\obj\Debug\Pokemon.pdb
